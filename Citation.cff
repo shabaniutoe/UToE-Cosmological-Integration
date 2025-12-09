@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "UToE – Cosmological Integration"
+message: "If you use this repository, please cite it as below."
+authors:
+  - family-names: "Shabani"
+    given-names: "Majid"
+version: "0.1.0"
+date-released: "2025-12-08"
+type: software
+repository-code: "https://github.com/shabaniutoe/UToE-Cosmological-Integration"
+abstract: >
+  Structural analysis of bounded integration dynamics in cosmological
+  systems, evaluating when logistic-style integration is compatible with
+  standard large-scale cosmology and when it fails.
